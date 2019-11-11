@@ -60,7 +60,8 @@ it reads the detection results from detection.csv, extract the content in the bo
 
 ## Results
 
-The pipeline achieves ~0.76 evaluation score without cats and dogs.
+The pipeline achieves ~0.76 evaluation score. Rank 57/296 in Leaderboard(https://www.kaggle.com/c/kuzushiji-recognition/leaderboard).
+<img src="./vis/SubmissionResult.png" width="800px">
 
 ## Detection resluts
 
